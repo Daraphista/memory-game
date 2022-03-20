@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.b9151cfa.css",
+    "main.js": "/memory-game/static/js/main.2b30ebbf.js",
+    "static/media/eight-tailed.png": "/memory-game/static/media/eight-tailed.714e8b1c54fced7bdf60.png",
+    "static/media/four-tailed.png": "/memory-game/static/media/four-tailed.d11e39d23fdf0399821e.png",
+    "static/media/three-tailed.png": "/memory-game/static/media/three-tailed.540a82898cb63526bb38.png",
+    "static/media/seven-tailed.png": "/memory-game/static/media/seven-tailed.1b47e0bd15da2af17d61.png",
+    "static/media/one-tailed.png": "/memory-game/static/media/one-tailed.d66ef71e3fed9f447899.png",
+    "static/media/six-tailed.png": "/memory-game/static/media/six-tailed.88fe6d9655ddd3c277c2.png",
+    "static/media/five-tailed.png": "/memory-game/static/media/five-tailed.7a19275a70e20bbf40b1.png",
+    "static/media/two-tailed.png": "/memory-game/static/media/two-tailed.4eed6bdffcba884572ca.png",
+    "static/media/nine-tailed.png": "/memory-game/static/media/nine-tailed.92df4b22685ebebd9f2d.png",
+    "index.html": "/memory-game/index.html",
+    "main.b9151cfa.css.map": "/memory-game/static/css/main.b9151cfa.css.map",
+    "main.2b30ebbf.js.map": "/memory-game/static/js/main.2b30ebbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9151cfa.css",
+    "static/js/main.2b30ebbf.js"
+  ]
+}
